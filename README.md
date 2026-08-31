@@ -1,1 +1,1 @@
-Automation testing using Selenium for Cinema booking 
+Automation testing for Cinema booking using Selenium 
